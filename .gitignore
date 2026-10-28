@@ -6,5 +6,5 @@ obj/
 *.suo
 *.cache
 
-# NuGet packages
+# NuGet packagesgit 
 packages/
