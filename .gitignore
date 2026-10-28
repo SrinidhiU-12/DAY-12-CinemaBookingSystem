@@ -1,0 +1,10 @@
+# Visual Studio Directory & Cache
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# NuGet packages
+packages/
